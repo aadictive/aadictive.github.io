@@ -1,6 +1,6 @@
 # Site
 repository: aadictive/aadictive.github.io
-# favicon: images/favicon.ico
+favicon: images/favicon.ico
 
 # Personal info
 name: Aditya Chaudhari
@@ -50,11 +50,11 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
   style: compressed
 
-plugins:
- - jekyll-seo-tag
+# plugins:
+#  - jekyll-seo-tag
