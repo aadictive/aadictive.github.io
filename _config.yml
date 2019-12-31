@@ -45,8 +45,8 @@ more_content: | # this will include new lines to allow paragraphs
    - Gaming
    - Cooking
    - Conducting Webinars
-|
-Next Para
+   |
+   Next paragraphs
 
 # Footer
 footer_show_references: true
