@@ -38,13 +38,21 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me2
+more_title: Voluntering Experience
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and computer vision engineering some of my other interests and hobbies are:
-   - Rock climbing
+   - Trekking
    - Gaming
    - Cooking
-   - [Vlogging](https://www.youtube.com/channel/UCPqM-4rweN_N0X-YvbHbvjQ)
+   - Conducting Webinars
+
+more_title: A Little More About Me...
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and computer vision engineering some of my other interests and hobbies are:
+   - Trekking
+   - Gaming
+   - Cooking
+   - Conducting Webinars
 
 # Footer
 footer_show_references: true
