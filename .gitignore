@@ -4,3 +4,6 @@
 _site
 Gemfile.lock
 *.code-workspace
+
+# External/Untrackable files
+.DS_Store
