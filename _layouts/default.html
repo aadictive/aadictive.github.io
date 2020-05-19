@@ -25,7 +25,10 @@
             {%- endif -%}
 
             {%- include more.html -%}
-            {%- include achievements.html -%}
+            
+            {%- if site.data.education2.size > 0 -%}
+                {%- include education2.html -%}
+            {%- endif -%}
 
         </div>
     </main>
