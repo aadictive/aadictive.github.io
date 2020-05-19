@@ -8,6 +8,8 @@ title: MS Computer Science Student at SUNY Binghamton
 email: achaud12@binghamton.edu
 website: https://aadictive.github.io/
 
+darkmode: false
+
 # Social links
 twitter_username: aadi_ctive
 github_username:  aadictive
@@ -53,7 +55,6 @@ footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
-darkmode: trye (options: true)
 
 sass:
   sass_dir: _sass
