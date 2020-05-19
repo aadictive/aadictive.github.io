@@ -48,15 +48,15 @@ more_content: | # this will include new lines to allow paragraphs
    
   <b>-</b>
 
-more_title: Achievements
-more_content: | # this will include new lines to allow paragraphs
+more_title2: Achievements
+more_content2: | # this will include new lines to allow paragraphs
   Alongside my interests in Datascience, Artificial Intelligence and Machine Learning; some of my other interests and hobbies are:
-   - Trekking
+   - 
    - Gaming
    - Cooking
    - Conducting Webinars (Watch them [here]())
    
-  <b>-</b>
+  <b>--</b>
 
 # Footer
 footer_show_references: true
