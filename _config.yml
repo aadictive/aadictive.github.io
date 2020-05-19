@@ -38,8 +38,8 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-more_title: A Little More About Me...
-more_content: | # this will include new lines to allow paragraphs
+more2_title: A Little More About Me...
+more2_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Datascience, Artificial Intelligence and Machine Learning; some of my other interests and hobbies are:
    - Trekking
    - Gaming
