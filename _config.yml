@@ -26,7 +26,7 @@ about_profile_image: images/PortfolioPhoto.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Aditya and I'm currently pursuing my Masters in Computer Science at State University of New York at Binghamton. Prior to masters, I have worked at a company - Tellmate Helper Pvt. Ltd. as Chief Operating Officer, gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Signal Processing</mark>, <mark>Computer Vision & AI</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Data Science</mark>, <mark>Computer Vision & AI</mark>, <mark>Signal Processing</mark>, and <mark> Cooking Food</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,13 +40,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: A Little More About Me...
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and computer vision engineering some of my other interests and hobbies are:
+  Alongside my interests in Datascience, Artificial Intelligence and Machine Learning; some of my other interests and hobbies are:
    - Trekking
    - Gaming
    - Cooking
-   - Conducting Webinars
+   - Conducting Webinars (Watch them [here]())
    
-  <b>Next paragraphs</b>
+  # <b>Next paragraphs</b>
 
 # Footer
 footer_show_references: true
