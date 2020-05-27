@@ -1,9 +1,0 @@
-*.gem
-.bundle
-.sass-cache
-_site
-Gemfile.lock
-*.code-workspace
-
-# External/Untrackable files
-.DS_Store
