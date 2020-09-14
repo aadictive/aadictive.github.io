@@ -10,7 +10,7 @@ permalink: /videos/
 <p> Categories </p>
 
 <ul>
-<li> Live Webinars </li>
+<li> <a href="https://www.youtube.com/playlist?list=PLzCnkDZSlJjspkDVUJuiv0CEtAaWCMdK6">Live Webinars</a></li>
 <li> Alumni Lectures </li>
 <li> Digital Signal Processing Tutorial </li>
 <li> Numerical Methods Tutorial </li>
