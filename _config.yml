@@ -13,8 +13,8 @@ urls:
       url: /blog
     #- text: Projects
     #  url: /gallery
-    #- text: Videos
-    #  url: /styleguide
+    - text: Videos
+      url: /videos #/styleguide
     #- text: Get Started Again
     #  url: /gets-started
     # - text: Shop
@@ -58,7 +58,7 @@ author_education_details:
                 college_url: https://www.binghamton.edu/
                 college_degree: Master of Science (MS) in Computer Science (CS)
                 description: |
-                  During my time at SUNY Binghamton I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+                  During my time at SUNY Binghamton I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and learnt a lot about healthy work life balance.
                   <br> Courses Taken as a part of coursework - CS550-Operating Systems, CS575-Design & Analysis Comp. Algorithm, CS571-Programming Languages, CS535-Introduction to Data Mining, CS565-Introduction to Artificial Intelligence, CS580-Introduction to Machine Learning.
                 visibility: true
               - college_logo: kjsieit.png
