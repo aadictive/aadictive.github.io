@@ -14,7 +14,7 @@ urls:
     #- text: Projects
     #  url: /gallery
     - text: Videos
-      url: /videos2 #/styleguide
+      url: /videos #/styleguide
     #- text: Get Started Again
     #  url: /gets-started
     # - text: Shop
