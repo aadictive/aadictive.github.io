@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: page
 menus: header
 title: Videos
 permalink: /videos/
