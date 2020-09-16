@@ -44,7 +44,7 @@
 <loc>http://localhost:4000/gallery/mountains.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/search</loc>
+<loc>http://localhost:4000/search/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/shop/</loc>

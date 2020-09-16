@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 menus: header
 title: Videos
 permalink: /videos/
@@ -56,7 +56,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Interfacing Arduino with Simulink and External Sensors | Webinar Ep#2 | #MATLABHelperLive</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Premiered on February 23, 2019 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">This is the second episode of Arduino with MATLAB which was premiered on February 23, 2019. I created the premiere video along with editing, videography and all the lecture deliverables for <a href="https://www.matlabhelper.com" target="_blank">MATLAB Helper</a>'s YouTube Channel.</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -64,7 +65,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Arduino with Servo Motors & GSM in MATLAB | Webinar Ep#3 | #MATLABHelperLive</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Premiered on March 23, 2019 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -72,23 +74,26 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Karaoke Extraction using MATLAB | Webinar | #MATLABHelperLive</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Streamed Live on October 5, 2018 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
           <td><br><iframe width="560" height="315" src="https://www.youtube.com/embed/vN99HkhT55A?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
           </td>
           <td style="padding:10px">
-          <h3 align="justify">Mario & Tic Tac Toe | Code & Play Games with MATLAB | Webinar | #MATLABHelperLive</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <h3>Mario & Tic Tac Toe | Code & Play Games with MATLAB | Webinar | #MATLABHelperLive</h3>
+          <p style="font-family:courier;"> Streamed Live on September 21, 2018 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
           <td><br><iframe width="560" height="315" src="https://www.youtube.com/embed/QgHfmbciSgM?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
           </td>
           <td style="padding:10px">
-          <h3 align="justify">Sudoku & Rock Paper Scissor | Code & Play Games with MATLAB | Webinar | #MATLABHelperLive</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <h3>Sudoku & Rock Paper Scissor | Code & Play Games with MATLAB | Webinar | #MATLABHelperLive</h3>
+          <p style="font-family:courier;"> Streamed Live on September 21, 2018 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -96,7 +101,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Face Detection Counter with MATLAB | Webinar | #MATLABHelperLive</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Streamed Live on September 7, 2018 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -104,7 +110,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Team ROBOCON KJSIEIT Journey 2018 || Nèm Con</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on March 31, 2018 by <a href="https://www.youtube.com/channel/UChc-3cPhotoIvsTxlV0tOeg" target="_blank">KJSIEIT ROBOCON</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -112,7 +119,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">SemiFinals Interview | Aditya Chaudhari | KJSIEIT | Robocon 2018</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on July 13, 2019 by <a href="https://www.youtube.com/channel/UCPqM-4rweN_N0X-YvbHbvjQ" target="_blank">Aditya Chaudhari</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -120,7 +128,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Team Achievements: Robocon 2017 | Asobi- The Landing Disc</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on October 14, 2017 by <a href="https://www.youtube.com/channel/UChc-3cPhotoIvsTxlV0tOeg" target="_blank">KJSIEIT ROBOCON</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -128,7 +137,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Impulse Response of Discrete Time System | DSP MATLAB | Episode #1</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on July 4, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -136,7 +146,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Linear and Circular Convolution | DSP MATLAB | Episode #2</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on August 17, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -144,7 +155,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Discrete & Fast Fourier Transform | DSP MATLAB | Episode #3</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on July 5, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -152,7 +164,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Butterworth IIR filter using Bilinear Transformation | DSP MATLAB | Episode #4</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on August 23, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -160,7 +173,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Chebyshev filter using Bilinear Transformation | DSP MATLAB | Episode #5</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on August 23, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -168,7 +182,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Butterworth IIR filter using Impulse Invariance | DSP MATLAB | Episode #6</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on August 23, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -176,7 +191,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Chebyshev filter using Impulse Invariance | DSP MATLAB | Episode #7</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on August 23, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -184,7 +200,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Window Method for FIR Filter Design | DSP MATLAB | Episode #8</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on August 17, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>  
         <tr>
           <th scope="row"></th>
@@ -192,7 +209,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Power Spectral Density of a Signal | DSP MATLAB | Episode #9</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on August 17, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -200,7 +218,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Sampling Rate Reduction Techniques | DSP MATLAB | Episode #10</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on August 17, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -208,7 +227,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">LU Factorization with MATLAB | Numerical Methods | MATLAB Helper</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on September 11, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -216,7 +236,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Cholesky Factorization with MATLAB | Numerical Methods | MATLAB Helper</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on September 13, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -224,7 +245,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Tridiagonal Systems in MATLAB | Numerical Methods | MATLAB Helper</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p></td>
+          <p style="font-family:courier;"> Published on September 11, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p></td>
         </tr>
         <tr>
           <th scope="row"></th>
@@ -232,7 +254,8 @@ permalink: /videos/
           </td>
           <td style="padding:10px">
           <h3 align="justify">Optimization in MATLAB | Numerical Methods | MATLAB Helper</h3>
-          <p align="justify">The webinar was organized by IEEE Department of KJ Somaiya IOEIT on 31st July 2020. I was invited to conduct an Alumni lecture on Robotics given that I was part of the college Robotics Team - Robocon for three consecutive years since 2016. This lecture was supposedly delivered for undergraduate students but was open for all. I tried to cover various topics like Why Robotics, Demand for Robotics, Job prospects in the field and it's applications in Real World.</p>
+          <p style="font-family:courier;"> Published on September 11, 2017 by <a href="https://www.youtube.com/channel/UCFa6AP9Ts4EFZWA6p_TPJmA" target="_blank">MATLAB Helper ®</a></p>
+          <p align="justify">(Des).</p>
           </td>
         </tr>
       </tbody>
