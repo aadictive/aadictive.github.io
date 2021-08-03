@@ -158,13 +158,13 @@ layout: default
           <h6 class="experience-info">{{ exp.company_name}}</h6>
           <h6 class="experience-info">{{ exp.duration}}</h6>
           <p align="justify" class="experience-desc">{{ exp.description }}</p>
-          <h6>Also worked as:</h6>
+          <!-- <h6>Also worked as:</h6>
           {% if exp.multiple_designations == true %}
           {% for titles in exp.multiple_titles %}
           <ul>
             <li><h6 class="experience-title">{{ titles.designation }} [{{ titles.duration}}]</h6></li>
           </ul>
-          {% endfor %}{% endif %}
+          {% endfor %}{% endif %} -->
           <p><a href="{{exp.company_url}}">{{ exp.company_url}}</a></p>
         </div>
       </div>

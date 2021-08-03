@@ -3,8 +3,8 @@ subtitle: MS in Computer Science
 description: >- # this means to ignore newlines until "baseurl:"
   This is a personal website developed by Aditya Chaudhari hosted on github pages. The website showcase his skills, porjects, experiences and blogs. 
 
-url: "https://www.adityachaudhari.dev" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.adityachaudhari.dev"
+baseurl: ""
 
 urls:
     - text: About Me
@@ -22,12 +22,10 @@ urls:
     - text: Contact Me
       url : /contact
 
-# Edit these details
-
 author_logo: profile.png
 author: Aditya Chaudhari
 author_bio: >
- Hi, my name’s Aditya and I’m a recent graduate Masters in Computer Science at State University of New York at Binghamton. Prior to masters, I have worked at a company - Tellmate Helper Pvt. Ltd. as Chief Operating Officer, gaining teamwork and leadership skills.
+ Hi, my name’s Aditya and I’m a recent MS CS graduate from the State University of New York at Binghamton. I'm Analytically driven and ambitious professional having diverse experience in Software Development, Data management, and business reporting. Proficient knowledge in Statistics, Math, Data Visualization, Data Analytics, and Analytical tools. I have had the opportunity as Chief Operating Officer at MATLAB Helper ® to work with various cross-functional & multi-cultural teams in various projects to achieve the desired results on the past.
 author_email: "connect@adityachaudhari.dev"
 author_location: Binghamton, New York, US
 author_website_url: "https://www.adityachaudhari.dev"
@@ -37,19 +35,27 @@ author_work_experiences:
             - company_name: Tellmate Helper Pvt. Ltd., Jaipur, India (MATLAB Helper)
               company_logo: mh.jpg
               company_url: https://matlabhelper.com/
-              designation: Chief Operating Officer
+              designation: Chief Operating Officer & MATLAB Developer
               description: |
-                Major Responsibilities includes looking after Management & Operations of entire company. Analyzed market for business plan and delivered pitch decks at various events.
-                Spearheaded developer’s team to solve client technical difficulties related to MATLAB. Implemented solutions to projects from majorly Computer Vision and Image Processing field, stipulated by clients
+                Worked on enhancements and customizations of business and research applications using MATLAB. Resolved critical production issues within stipulated timespan by adapting agile software methodologies. Implemented a minimalistic UI for an interactive environment aimed at providing important insights into key STEM concepts. Gained valuable experience of client interactions by collaborating with a huge team. Analyzed market for business plan and delivered pitch decks at various events along with managing company operations.
               duration: June 2018 to April 2019
-              multiple_designations: true
-              multiple_titles:
-                - designation: MATLAB Developer & Supervisor
-                  duration: January 2018 to June 2018
-                - designation: MATLAB Developer
-                  duration: August 2017 to December 2017
-                - designation: MATLAB Developer Trainee
-                  duration: June 2017 to August 2017
+              # multiple_designations: false
+              # multiple_titles:
+              #   - designation: MATLAB Developer Intern
+              #     duration: June 2017 to June 2018
+              #   - designation: MATLAB Developer
+              #     duration: August 2017 to December 2017
+              #   - designation: MATLAB Developer Trainee
+              #     duration: June 2017 to August 2017
+              visibility: true
+
+            - company_name: Tellmate Helper Pvt. Ltd., Jaipur, India (MATLAB Helper)
+              company_logo: mh.jpg
+              company_url: https://matlabhelper.com/
+              designation: MATLAB Developer Intern
+              description: |
+                Worked with developer’s team to solve client technical difficulties and accomplish solutions to projects in Neural Networks, Machine Learning, Data Analysis and Visualization. Delivered various Live coding sessions focused on MATLAB and Simulink allowing to connect with users with a more personalized touch. Collaborated with team to design a modern LMS website and add quality content for self-paced user learning experience.
+              duration: June 2017 to May 2018
               visibility: true
 
 author_education_details:
@@ -67,6 +73,7 @@ author_education_details:
                 college_degree: Bachelor of Enginering (BE) in Electronics & Telecommunications
                 description: At KJSIEIT, I developed my skills in the field of Electronics and Telecommunications which developed my interest in Computer Vision, Robotics and AI. I was also a member and team leader of the Robotics team which earned several laurels for my college. Under my leadership, our team managed to improve our ranking from a lowly 56th place to a high of 3rd position on an all-India level within just three short years. 
                 visibility: true
+# Projects Template
 
 author_project_details:
               - project_thumbnail: gamershub.png
@@ -85,12 +92,9 @@ twitter_username: aadi_ctive
 github_username:  aadictive
 facebook_username: aadi.ctive
 linkedin_username: aadi-ctive
-#behance_username: johndoe
 instagram_username: aadi.ctive
 medium_username: adityachaudhari
-#telegram_username: johndoe
-#dribbble_username: johndoe
-#flickr_username: johndoe
+
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -113,7 +117,7 @@ highlighter: rouge
 permalink: pretty
 
 # google analytics
-google_analytics: UA-46783401-10
+#google_analytics: UA-46783401-10
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
