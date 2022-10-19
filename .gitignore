@@ -15,3 +15,30 @@ vendor/
 
 # External/Untrackable files
 .DS_Store
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+
+# Miscellaneous
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.eslintcache
+
+Server/node_modules
+Server/config.js
