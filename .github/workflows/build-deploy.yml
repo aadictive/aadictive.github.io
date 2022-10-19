@@ -29,6 +29,9 @@ jobs:
     
     - name: Build project
       run: CI= npm run build
+      
+    - name: Publish to gh-pages branch
+      run: gh-pages -d build
     
 #     - name: Upload production-ready build files
 #       uses: actions/upload-artifact@v2
