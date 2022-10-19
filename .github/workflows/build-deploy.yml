@@ -2,7 +2,6 @@ name: Build & deploy
 
 on:
   push:
-
     branches:
       - main
   pull_request:
@@ -16,19 +15,16 @@ jobs:
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
-    
-    - name: Install Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: 16
-        cache: 'npm'
-    
-    - name: Install NPM packages
-      run: npm ci
+      uses: act ions/checkout@v3
     
     - name: Build project
-      run: npm run build
+      run: npm run install
+      
+    - name: Test
+      run: npm run test
+      
+    - name: Deploy
+      run: npm run deploy
     
     - name: Upload production-ready build files
       uses: actions/upload-artifact@v2
