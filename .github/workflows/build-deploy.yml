@@ -2,11 +2,12 @@ name: Build & deploy
 
 on:
   push:
+
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   build:
@@ -15,43 +16,41 @@ jobs:
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     
     - name: Install Node.js
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v3
       with:
-        node-version: 13.x
+        node-version: 16
+        cache: 'npm'
     
     - name: Install NPM packages
       run: npm ci
     
     - name: Build project
-      run: npm run build
+      run: CI= npm run build
     
-    - name: Run tests
-      run: npm run test
-
-    - name: Upload production-ready build files
-      uses: actions/upload-artifact@v2
-      with:
-        name: production-files
-        path: ./build
+#     - name: Upload production-ready build files
+#       uses: actions/upload-artifact@v2
+#       with:
+#         name: production-files
+#         path: ./build
   
-  deploy:
-    name: Deploy
-    needs: build
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+#   deploy:
+#     name: Deploy
+#     needs: build
+#     runs-on: ubuntu-latest
+#     if: github.ref == 'refs/heads/main'
     
-    steps:
-    - name: Download artifact
-      uses: actions/download-artifact@v2
-      with:
-        name: production-files
-        path: ./build
+#     steps:
+#     - name: Download artifact
+#       uses: actions/download-artifact@v2
+#       with:
+#         name: production-files
+#         path: ./build
 
-    - name: Deploy to gh-pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./build
+#     - name: Deploy to gh-pages
+#       uses: peaceiris/actions-gh-pages@v3
+#       with:
+#         github_token: ${{ secrets.GITHUB_TOKEN }}
+#         publish_dir: ./build
