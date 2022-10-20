@@ -3,7 +3,7 @@ name: Build, Deploy to beta pages
 on:
   push:
     branches:
-      - 'releases/**'
+      - 'release/**'
 
 jobs:
   build:
