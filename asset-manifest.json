@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.36fae36a.css",
-    "main.js": "/static/js/main.d1dd164f.js",
+    "main.js": "/static/js/main.1e7cddb6.js",
     "static/js/377.b701d775.chunk.js": "/static/js/377.b701d775.chunk.js",
     "static/media/avatar.png": "/static/media/avatar.982781a3a827ed309863.png",
+    "static/media/Resume_Aditya_Chaudhari.pdf": "/static/media/Resume_Aditya_Chaudhari.32a4ad7dd242d50929be.pdf",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.png": "/static/media/logo.9249cd7b1c0e5cbda840.png",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "static/media/Resume_Aditya_Chaudhari.pdf": "/static/media/Resume_Aditya_Chaudhari.cb6e96bd605f3683689e.pdf",
     "main.36fae36a.css.map": "/static/css/main.36fae36a.css.map",
-    "main.d1dd164f.js.map": "/static/js/main.d1dd164f.js.map",
+    "main.1e7cddb6.js.map": "/static/js/main.1e7cddb6.js.map",
     "377.b701d775.chunk.js.map": "/static/js/377.b701d775.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36fae36a.css",
-    "static/js/main.d1dd164f.js"
+    "static/js/main.1e7cddb6.js"
   ]
 }
