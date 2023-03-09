@@ -24,7 +24,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button variant="primary" href={resumeLink} target="_blank">
             <AiOutlineDownload />
-            &nbsp;Download CV
+            &nbsp;Download Resume
           </Button>
         </Row>
 
@@ -37,7 +37,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button variant="primary" href={resumeLink} target="_blank">
             <AiOutlineDownload />
-            &nbsp;Download CV
+            &nbsp;Download Resume
           </Button>
         </Row>
       </Container>
