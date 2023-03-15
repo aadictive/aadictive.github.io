@@ -1,11 +1,7 @@
-name: Build, Deploy and Publish
+name: Build, Deploy and Publish to gh-pages
 
 on:
   push:
-
-    branches:
-      - master
-  pull_request:
     branches:
       - master
 
