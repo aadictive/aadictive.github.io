@@ -32,7 +32,7 @@ function App() {
         <Navbar />
         <ScrollToTop />
         <Switch>
-          <Route path="/aadictive.github.io" exact component={Home} />
+          <Route path="/" exact component={Home} />
           {/* <Route path="/project" component={Projects} /> */}
           {/* TODO: Update the Projects page */}
           <Route path="/aadictive.github.io/project" component={PageBuilding} />
