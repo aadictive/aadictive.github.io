@@ -35,7 +35,7 @@ function App() {
           <Route path="/" exact component={Home} />
           {/* <Route path="/project" component={Projects} /> */}
           {/* TODO: Update the Projects page */}
-          <Route path="/aadictive.github.io/project" component={PageBuilding} />
+          <Route path="/aadictive.github.io/project" pathMatch='full' component={PageBuilding} />
           <Route path="/aadictive.github.io/about" component={About} />
           <Route path="/aadictive.github.io/resume" component={Resume} />
         </Switch>
