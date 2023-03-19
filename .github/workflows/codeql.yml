@@ -15,7 +15,7 @@ on:
   push:
     branches:
       - "*"
-      - "*/*"
+      - "release/*"
       - "!master"
       - "!gh-pages"
   schedule:
