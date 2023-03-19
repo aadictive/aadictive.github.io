@@ -14,12 +14,14 @@ name: "CodeQL"
 on:
   push:
     branches:
-      - "*"
-      - "release/*"
-      - "!master"
-      - "!gh-pages"
+      - 'release/**'
+      - 'feature/**'
+      - '*'
+    branches-ignore:
+      - 'gh-pages'
+      - 'master'
   schedule:
-    - cron: '36 20 * * 6'
+    - cron: '00 05 * * 6'
 
 jobs:
   analyze:
