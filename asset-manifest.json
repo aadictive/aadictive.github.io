@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aadictive.github.io/static/css/main.06847801.css",
-    "main.js": "/aadictive.github.io/static/js/main.55d59670.js",
+    "main.css": "/aadictive.github.io/static/css/main.900bc1c8.css",
+    "main.js": "/aadictive.github.io/static/js/main.9ff606c5.js",
     "static/js/377.b701d775.chunk.js": "/aadictive.github.io/static/js/377.b701d775.chunk.js",
     "static/media/avatar.png": "/aadictive.github.io/static/media/avatar.982781a3a827ed309863.png",
     "static/media/home-main.svg": "/aadictive.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -10,12 +10,12 @@
     "static/media/logo.png": "/aadictive.github.io/static/media/logo.9249cd7b1c0e5cbda840.png",
     "static/media/pre.svg": "/aadictive.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/aadictive.github.io/index.html",
-    "main.06847801.css.map": "/aadictive.github.io/static/css/main.06847801.css.map",
-    "main.55d59670.js.map": "/aadictive.github.io/static/js/main.55d59670.js.map",
+    "main.900bc1c8.css.map": "/aadictive.github.io/static/css/main.900bc1c8.css.map",
+    "main.9ff606c5.js.map": "/aadictive.github.io/static/js/main.9ff606c5.js.map",
     "377.b701d775.chunk.js.map": "/aadictive.github.io/static/js/377.b701d775.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06847801.css",
-    "static/js/main.55d59670.js"
+    "static/css/main.900bc1c8.css",
+    "static/js/main.9ff606c5.js"
   ]
 }
