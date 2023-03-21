@@ -14,13 +14,14 @@ name: "CodeQL"
 on:
   push:
     branches:
+      - 'master'
       - 'release/**'
       - 'feature/**'
-      - '*'
       - '!gh-pages'
-      - '!master'
+      - '!workflow-update*'
   schedule:
     - cron: '00 05 * * 6'
+  workflow_dispatch:
 
 jobs:
   analyze:
