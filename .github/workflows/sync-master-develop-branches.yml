@@ -5,18 +5,15 @@ on:
   workflow_dispatch:
   
 jobs:
-  merge-master-back-to-dev:
+  sync-branch:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Set Git config
-      run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "Github Actions"
-    - name: Merge master back to dev
-      run: |
-          git fetch --unshallow
-          git checkout develop
-          git pull
-          git merge --no-ff master -m "Auto-merge master back to develop"
-          git push
+      - uses: actions/checkout@master
+
+      - name: Merge master -> develop
+        uses: devmasx/merge-branch@master
+        with:
+          type: now
+          from_branch: master
+          target_branch: develop
+          github_token: ${{ secrets.GITHUB_TOKEN }}
