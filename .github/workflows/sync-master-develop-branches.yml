@@ -1,0 +1,22 @@
+name: Merge Master branch with develop every week to keep then in sync
+on:
+  schedule:
+    - cron: '30 05 * * 6'
+  workflow_dispatch:
+  
+jobs:
+  merge-master-back-to-dev:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set Git config
+      run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "Github Actions"
+    - name: Merge master back to dev
+      run: |
+          git fetch --unshallow
+          git checkout develop
+          git pull
+          git merge --no-ff master -m "Auto-merge master back to develop"
+          git push
