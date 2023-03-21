@@ -17,9 +17,8 @@ on:
       - 'release/**'
       - 'feature/**'
       - '*'
-    branches-ignore:
-      - 'gh-pages'
-      - 'master'
+      - '!gh-pages'
+      - '!master'
   schedule:
     - cron: '00 05 * * 6'
 
