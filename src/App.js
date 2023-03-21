@@ -35,9 +35,9 @@ function App() {
           <Route path="/" exact component={Home} />
           {/* <Route path="/project" component={Projects} /> */}
           {/* TODO: Update the Projects page */}
-          <Route path="/portfolio/project" component={PageBuilding} />
-          <Route path="/portfolio/about" component={About} />
-          <Route path="/portfolio/resume" component={Resume} />
+          <Route path="/project" component={PageBuilding} />
+          <Route path="/about" component={About} />
+          <Route path="/resume" component={Resume} />
         </Switch>
         <Footer />
       </div>
