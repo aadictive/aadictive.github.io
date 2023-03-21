@@ -16,4 +16,5 @@ jobs:
           type: now
           from_branch: master
           target_branch: develop
+          message: Auto-merge master to develop
           github_token: ${{ secrets.GITHUB_TOKEN }}
