@@ -6,8 +6,9 @@ jobs:
   test-example:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - name: Testing Step
-        run: git diff --name-only origin/develop HEAD > foo.txt; if [ $(wc -l < foo.txt) -eq 0 ]; then foo='false'; else foo='true'; fi
-      - name: Test
-        run: echo $foo
+      - name: Get Commit Difference Count Between Two Branches
+        id: cdc
+        uses: jessicalostinspace/commit-difference-action@v1.0.0
+        with:
+          base-branch: 'master' 
+          secondary-branch: 'develop'
