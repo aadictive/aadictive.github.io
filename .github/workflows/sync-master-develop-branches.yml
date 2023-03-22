@@ -1,7 +1,7 @@
 name: Merge Master branch with develop every week to keep then in sync
 on:
   schedule:
-    - cron: '30 05 * * 6'
+    - cron: '30 05 * * 0-6'
   workflow_dispatch:
   
 jobs:
