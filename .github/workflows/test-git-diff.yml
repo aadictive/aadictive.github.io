@@ -8,6 +8,6 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Testing Step
-        run: echo "GITHUB_DIFF_ANY=$(git diff --name-only origin/develop HEAD > foo.txt; if [ $(wc -l < foo.txt) -eq 0 ]; then foo='false'; else foo='true'; fi)" >> $GITHUB_ENV
+        run: git diff --name-only origin/develop HEAD > foo.txt; if [ $(wc -l < foo.txt) -eq 0 ]; then foo='false'; else foo='true'; fi
       - name: Test
-        run: echo $GITHUB_DIFF_ANY
+        run: echo $foo
