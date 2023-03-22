@@ -9,8 +9,8 @@ jobs:
       - name: 'Compare'
         uses: imsamdez/actions.compare-branch@1.0.3
         with:
-          base: master
-          compare: develop
+          base: develop
+          compare: master
           github_token: ${{ secrets.GITHUB_TOKEN }}
       # Make use of the result with COMPARE_RESULT_SAME env variable
       - name: 'Result'
