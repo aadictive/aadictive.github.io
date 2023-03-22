@@ -6,9 +6,12 @@ jobs:
   test-example:
     runs-on: ubuntu-latest
     steps:
-      - name: Get Commit Difference Count Between Two Branches
-        id: cdc
-        uses: jessicalostinspace/commit-difference-action@v1.0.0
+      - name: 'Compare'
+        uses: imsamdez/actions.compare-branch@1.0.3
         with:
-          base-branch: 'master' 
-          secondary-branch: 'develop'
+          base: master
+          compare: prod
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      # Make use of the result with COMPARE_RESULT_SAME env variable
+      - name: 'Result'
+        run: echo Result is $COMPARE_RESULT_SAME
