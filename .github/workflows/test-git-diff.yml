@@ -8,6 +8,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Testing Step
-        if: ${{git diff --color develop > foo.txt; if [ $(wc -l < foo.txt) -eq 0 ]; then false; else true; fi}}
-        run: |
-            echo "This workflow will run!"
+        run: echo "GITHUB_DIFF_ANY=$(git diff --color develop > foo.txt; if [ $(wc -l < foo.txt) -eq 0 ]; then foo='false'; else foo='true'; fi)" >> $GITHUB_ENV
+      - name: Test
+        run: echo $GITHUB_DIFF_ANY
