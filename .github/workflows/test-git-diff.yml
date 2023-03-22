@@ -15,3 +15,12 @@ jobs:
       # Make use of the result with COMPARE_RESULT_SAME env variable
       - name: 'Result'
         run: echo Result is $COMPARE_RESULT_SAME
+      - name: Merge master -> develop
+        uses: devmasx/merge-branch@master
+        if: env.COMPARE_RESULT_SAME == 'false'
+        with:
+          type: now
+          from_branch: master
+          target_branch: develop
+          message: Auto-merge master to develop
+          github_token: ${{ secrets.GITHUB_TOKEN }}
