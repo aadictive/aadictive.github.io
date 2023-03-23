@@ -1,7 +1,7 @@
-name: Merge Master branch with develop every week to keep then in sync
+name: Daily sync Master to Develop
 on:
   schedule:
-    - cron: '30 05 * * 0-6'
+    - cron: '30 05 * * 0-6' # This will run everyday at 05:30 AM
   workflow_dispatch:
   
 jobs:
