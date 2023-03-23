@@ -1,7 +1,7 @@
 name: Daily sync Master to Develop
 on:
   schedule:
-    - cron: '30 05 * * 0-6' # This will run everyday at 05:30 AM
+    - cron: '30 05 * * 0-6' # This will run everyday at 05:30 AM (Sunday to Saturday)
   workflow_dispatch:
   
 jobs:
