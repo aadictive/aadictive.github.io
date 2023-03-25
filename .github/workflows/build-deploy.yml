@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - develop
 
 jobs:
   build:
@@ -21,8 +22,9 @@ jobs:
         cache: 'npm'
     
     - name: Install NPM packages
-      run: npm config set legacy-peer-deps true
-      run: npm ci
+      run: |
+      npm config set legacy-peer-deps true
+      npm ci
     
     - name: Build project
       run: CI= npm run build
