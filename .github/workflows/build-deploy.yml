@@ -21,10 +21,11 @@ jobs:
         node-version: 16
         cache: 'npm'
     
+    - name: Set Default Peer Dependencies to true
+      run: npm config set legacy-peer-deps true
+    
     - name: Install NPM packages
-      run: |
-      npm config set legacy-peer-deps true
-      npm ci
+      run: npm ci
     
     - name: Build project
       run: CI= npm run build
