@@ -34,7 +34,7 @@
     "typewriter-effect": "^2.19.0",
     "urix": "^0.1.0",
     "uuid": "^7.0.3",
-    "web-vitals": "^0.2.4",
+    "web-vitals": "^3.3.0",
     "worker-loader": "^3.0.7"
   },
   "scripts": {
