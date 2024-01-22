@@ -33,7 +33,7 @@
     "typescript": "^5.2.2",
     "typewriter-effect": "^2.19.0",
     "urix": "^0.1.0",
-    "uuid": "^7.0.3",
+    "uuid": "^9.0.1",
     "web-vitals": "^3.5.1",
     "worker-loader": "^3.0.7"
   },
