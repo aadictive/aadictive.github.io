@@ -29,7 +29,7 @@
     "react-tooltip": "^5.24.0",
     "react-tsparticles": "^2.12.2",
     "resolve-url": "^0.2.1",
-    "tsparticles": "^2.9.3",
+    "tsparticles": "^3.3.0",
     "typescript": "^5.2.2",
     "typewriter-effect": "^2.21.0",
     "urix": "^0.1.0",
