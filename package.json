@@ -26,7 +26,7 @@
     "react-pdf": "^8.0.2",
     "react-router-dom": "^6.23.0",
     "react-scripts": "^5.0.1",
-    "react-tooltip": "^5.24.0",
+    "react-tooltip": "^5.26.4",
     "react-tsparticles": "^2.12.2",
     "resolve-url": "^0.2.1",
     "tsparticles": "^3.4.0",
