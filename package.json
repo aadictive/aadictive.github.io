@@ -6,7 +6,7 @@
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.1.2",
-    "axios": "^1.6.2",
+    "axios": "^1.7.4",
     "bootstrap": "^4.6.2",
     "eslint-config-react-app": "^7.0.1",
     "jquery": "^3.7.1",
